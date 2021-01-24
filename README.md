@@ -8,6 +8,7 @@ php artisan serve
 5. Untuk menyalakan notifikasi pusher, karena menggunakan queue dan asyn maka jalankan:
 php artisan queue:work
 Jika tidak menjalankan queue work maka notifikasi tidak muncul
+
 6.Untuk mengecek phpunit dapat menjalankan perintah :
 .vendor/bin/phpunit
 atau 
